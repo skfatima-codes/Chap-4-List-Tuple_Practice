@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  Lists and Tuples in Python 
 
 This repository contains my notes and practice problems for **Lists** and **Tuples** in Python. It includes basic concepts, examples, and problems I solved while learning.
@@ -25,3 +26,6 @@ This repository contains my notes and practice problems for **Lists** and **Tupl
 
 
 
+=======
+# Chap-4-List-Tuple_Practice
+>>>>>>> d0620c495f30c6ac47c67d786a54e7b2cef423fd
